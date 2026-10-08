@@ -36,7 +36,7 @@ a {
 
 /* إخفاء العنوان الموجود في الـ HTML */
 #msgs {
-    display: none;
+    display: block;
 }
 
 /* إخفاء Select Your Firmware */
